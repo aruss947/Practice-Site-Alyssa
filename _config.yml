@@ -1,9 +1,8 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
+title: Practice Site Alyssa 
+email: aruss947@gmail.com
+description: My practice site. 
+baseurl: "/Practice-Site-Alyssa"
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Alyssa Russell" # Set default author name
+      categories: "dogs"
       layout: "post"
       comments: true
   -
