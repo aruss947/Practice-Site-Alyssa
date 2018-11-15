@@ -3,8 +3,8 @@ title: Practice Site Alyssa
 email: aruss947@gmail.com
 description: My practice site. 
 baseurl: "/Practice-Site-Alyssa"
-twitter_username: 
-avatar: "" # Set footer avatar
+twitter_username: https://twitter.com/colinrussell?lang=en
+avatar: "https://unsplash.com/photos/mGX_QmEgKac" # Set footer avatar
 paginate: 3
 
 # Build settings
